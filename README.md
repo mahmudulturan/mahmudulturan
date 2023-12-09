@@ -4,7 +4,7 @@
 <!-- Profile Image -->
 <div align="center" width="420">
 
-[![Mahmudul Hasan Banner](https://i.ibb.co/CKxkNSF/banner.jpg "Md. Mahmudul Hasan")](https://www.linkedin.com/in/mahmudulturan/)
+[![Mahmudul Hasan Banner](https://raw.githubusercontent.com/mahmudulturan/mahmudulturan/main/assets/banner.jpg "Md. Mahmudul Hasan")](https://www.linkedin.com/in/mahmudulturan/)
 
 </div>
 
@@ -47,7 +47,6 @@
 <!-- Language Stats and GitHub Activity -->
 
 <div align="center">
-
 <h3 align="center">🔥Streak Showcase</h3>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mahmudulturan&theme=neon&hide_border=true&border_radius=10&card_width=503)](https://git.io/streak-stats)
@@ -56,23 +55,19 @@
 
 
 <div align="center">
-
 <h3 align="center">🚀 Language Proficiency
 </h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmudulturan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=bear&hide_border=true&order=2" height="220" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmudulturan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=bear&hide_border=true&order=2" height="200" alt="languages graph"  />
 </div>
 
-</div>
-
-
-
-##
 <div align="center">
 <h3 align="center">📊 Commit Charts & Insights
 </h3>
 
+<div>
+
 [![GitHub Profile Summery](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmudulturan&theme=omni)](https://git.io/streak-stats)
+</div>
 
 </div>
 </div>
