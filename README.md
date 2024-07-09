@@ -39,7 +39,7 @@
 <!-- Language and Tools Icons -->
 <div align="center">
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,vite,materialui,firebase,express,nodejs,mongodb,postman,figma,git)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,vite,materialui,firebase,express,nodejs,mongodb,postman,figma,git)](#)
 
 </div>
 
@@ -49,7 +49,7 @@
 <div align="center">
 <h3 align="center">🔥Streak Showcase</h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mahmudulturan&theme=neon&hide_border=true&border_radius=10&card_width=503)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mahmudulturan&theme=neon&hide_border=true&border_radius=10&card_width=503)](#)
 
 </div>
 
@@ -66,7 +66,7 @@
 
 <div>
 
-[![GitHub Profile Summery](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmudulturan&theme=omni)](https://git.io/streak-stats)
+[![GitHub Profile Summery](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmudulturan&theme=omni)](#)
 </div>
 
 </div>
